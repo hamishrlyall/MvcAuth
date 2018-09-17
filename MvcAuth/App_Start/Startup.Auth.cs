@@ -58,11 +58,11 @@ namespace MvcAuth
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "122141788254-u04hriiops8cfbv1o8dkcpiga5qcliu8.apps.googleusercontent.com",
+                ClientSecret = "IHSpwR2j777f6RIdnQkRBnZt"
+            });
         }
     }
 }
