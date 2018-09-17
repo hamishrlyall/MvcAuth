@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcAuth", "MvcAuth\MvcAuth.csproj", "{0FD8015E-B54F-43E5-80F9-5661D09DC8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD8015E-B54F-43E5-80F9-5661D09DC8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD8015E-B54F-43E5-80F9-5661D09DC8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD8015E-B54F-43E5-80F9-5661D09DC8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD8015E-B54F-43E5-80F9-5661D09DC8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB6FF652-F613-4D3A-B973-7C6998C796E4}
+	EndGlobalSection
+EndGlobal
